@@ -1,0 +1,53 @@
+.FooterListContainer {
+    padding: 0 2rem;
+    min-height: 200px;
+    background-color: #EBEEEF;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.FooterLower {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #002F34;
+    height: 60px;
+}
+
+.FooterLower>div>span {
+    color: #FFFFE5;
+    padding: 0 0.5rem;
+    font-size: 13px;
+}
+
+.FooterLower>div>span.bold {
+    font-weight: 800;
+}
+
+.followContainer>div.followTitle {
+    color: #002F34;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 1rem 0;
+}
+.followContainer>img{
+    width: 90px;
+    padding-right: 1rem;
+}
+/* .followContainer{
+    display: flex;
+} */
+/* .followImagesContainer{
+    width: 100px;
+    background-color: aqua;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.followImagesContainer>img{
+    width: 100%;
+    
+} */

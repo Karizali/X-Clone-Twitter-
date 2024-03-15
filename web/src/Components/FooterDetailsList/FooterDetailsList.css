@@ -1,0 +1,14 @@
+.footerListTitle{
+    color: #002F34;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 1rem 0;
+}
+.footerList>li{
+    color:  rgba(0,47,52,.64);
+    font-size: 0.8rem;
+    font-weight: 300;
+    list-style: none;
+    margin: 0 0 0.5rem 0;
+}
